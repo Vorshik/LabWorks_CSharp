@@ -1,0 +1,14 @@
+E:\учёба\2ой курс\ООП\lab 12\lab 12\bin\Debug\lab 12.exe.config
+E:\учёба\2ой курс\ООП\lab 12\lab 12\bin\Debug\lab 12.exe
+E:\учёба\2ой курс\ООП\lab 12\lab 12\bin\Debug\lab 12.pdb
+E:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.csprojAssemblyReference.cache
+E:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.csproj.CoreCompileInputs.cache
+E:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.exe
+E:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.pdb
+D:\учёба\2ой курс\ООП\lab 12\lab 12\bin\Debug\lab 12.exe.config
+D:\учёба\2ой курс\ООП\lab 12\lab 12\bin\Debug\lab 12.exe
+D:\учёба\2ой курс\ООП\lab 12\lab 12\bin\Debug\lab 12.pdb
+D:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.csprojAssemblyReference.cache
+D:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.csproj.CoreCompileInputs.cache
+D:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.exe
+D:\учёба\2ой курс\ООП\lab 12\lab 12\obj\Debug\lab 12.pdb

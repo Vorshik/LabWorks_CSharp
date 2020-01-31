@@ -1,0 +1,14 @@
+J:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\bin\Debug\lab 8.exe.config
+J:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\bin\Debug\lab 8.exe
+J:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\bin\Debug\lab 8.pdb
+J:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.csprojAssemblyReference.cache
+J:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
+J:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.exe
+J:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.pdb
+E:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\bin\Debug\lab 8.exe.config
+E:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\bin\Debug\lab 8.exe
+E:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\bin\Debug\lab 8.pdb
+E:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.csprojAssemblyReference.cache
+E:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
+E:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.exe
+E:\учёба\2ой курс\ООП\лаб 8\lab 8\lab 8\obj\Debug\lab 8.pdb

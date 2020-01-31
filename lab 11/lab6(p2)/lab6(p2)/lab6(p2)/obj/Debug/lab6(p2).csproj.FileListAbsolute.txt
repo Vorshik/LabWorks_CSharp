@@ -1,0 +1,7 @@
+J:\учёба\2ой курс\ООП\lab 6\lab6(p2)\lab6(p2)\lab6(p2)\bin\Debug\lab6(p2).exe.config
+J:\учёба\2ой курс\ООП\lab 6\lab6(p2)\lab6(p2)\lab6(p2)\bin\Debug\lab6(p2).exe
+J:\учёба\2ой курс\ООП\lab 6\lab6(p2)\lab6(p2)\lab6(p2)\bin\Debug\lab6(p2).pdb
+J:\учёба\2ой курс\ООП\lab 6\lab6(p2)\lab6(p2)\lab6(p2)\obj\Debug\lab6(p2).csprojAssemblyReference.cache
+J:\учёба\2ой курс\ООП\lab 6\lab6(p2)\lab6(p2)\lab6(p2)\obj\Debug\lab6(p2).csproj.CoreCompileInputs.cache
+J:\учёба\2ой курс\ООП\lab 6\lab6(p2)\lab6(p2)\lab6(p2)\obj\Debug\lab6(p2).exe
+J:\учёба\2ой курс\ООП\lab 6\lab6(p2)\lab6(p2)\lab6(p2)\obj\Debug\lab6(p2).pdb

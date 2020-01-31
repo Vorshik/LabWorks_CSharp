@@ -1,0 +1,9 @@
+E:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\obj\Debug\lab4(p1).csprojAssemblyReference.cache
+E:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\obj\Debug\lab4(p1).csproj.CoreCompileInputs.cache
+J:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\obj\Debug\lab4(p1).csprojAssemblyReference.cache
+J:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\obj\Debug\lab4(p1).csproj.CoreCompileInputs.cache
+J:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\bin\Debug\lab4(p1).exe.config
+J:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\bin\Debug\lab4(p1).exe
+J:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\bin\Debug\lab4(p1).pdb
+J:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\obj\Debug\lab4(p1).exe
+J:\учёба\2ой курс\ООП\lab 4\lab4(p1)\lab4(p1)\obj\Debug\lab4(p1).pdb

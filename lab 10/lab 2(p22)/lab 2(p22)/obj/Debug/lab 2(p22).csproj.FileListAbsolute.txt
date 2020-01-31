@@ -1,0 +1,14 @@
+E:\учёба\2ой курс\ООП\lab 2(part2)\lab 2(p22)\lab 2(p22)\bin\Debug\lab 2(p22).exe.config
+E:\учёба\2ой курс\ООП\lab 2(part2)\lab 2(p22)\lab 2(p22)\bin\Debug\lab 2(p22).exe
+E:\учёба\2ой курс\ООП\lab 2(part2)\lab 2(p22)\lab 2(p22)\bin\Debug\lab 2(p22).pdb
+E:\учёба\2ой курс\ООП\lab 2(part2)\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).csprojAssemblyReference.cache
+E:\учёба\2ой курс\ООП\lab 2(part2)\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).csproj.CoreCompileInputs.cache
+E:\учёба\2ой курс\ООП\lab 2(part2)\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).exe
+E:\учёба\2ой курс\ООП\lab 2(part2)\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).pdb
+E:\учёба\2ой курс\ООП\lab 10\lab 2(p22)\lab 2(p22)\bin\Debug\lab 2(p22).exe.config
+E:\учёба\2ой курс\ООП\lab 10\lab 2(p22)\lab 2(p22)\bin\Debug\lab 2(p22).exe
+E:\учёба\2ой курс\ООП\lab 10\lab 2(p22)\lab 2(p22)\bin\Debug\lab 2(p22).pdb
+E:\учёба\2ой курс\ООП\lab 10\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).csprojAssemblyReference.cache
+E:\учёба\2ой курс\ООП\lab 10\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).csproj.CoreCompileInputs.cache
+E:\учёба\2ой курс\ООП\lab 10\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).exe
+E:\учёба\2ой курс\ООП\lab 10\lab 2(p22)\lab 2(p22)\obj\Debug\lab 2(p22).pdb
